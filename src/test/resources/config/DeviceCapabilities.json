@@ -1,0 +1,13 @@
+[
+	{
+		"deviceType": "android_device",
+		"deviceName": "OnePlus 7",
+		"platformName": "Android",
+		"orientation": "PORTRAIT",
+		"platformVersion": "10",
+		"appiumServerUrl": "http://0.0.0.0:4723/wd/hub",
+		"appPackage": "com.nobroker.app",
+		"appActivity": "com.nobroker.app.activities.NBSplashScreen",
+		"noReset": false
+	}
+]
